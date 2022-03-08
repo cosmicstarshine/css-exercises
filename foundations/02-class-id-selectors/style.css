@@ -1,0 +1,19 @@
+.MainText {
+    background-color: lightpink;
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: medium;
+}
+.MainText.FancyText {
+    font-size: 24px;
+}
+#BlueText {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+}
+#GreenBG{
+    background-color :lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

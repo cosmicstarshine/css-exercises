@@ -1,11 +1,11 @@
 /* Wildcard isn't ideal; this is just to declare a global typeface and to avoid using internal css methods. */
 * {
-    font-family:'Helvetica Neue', Tahoma, Verdana, 'Segoe UI', 'Open Sans', sans-serif;
+    font-family: 'Helvetica Neue', Tahoma, Verdana, 'Segoe UI', 'Open Sans', sans-serif;
 }
 div {
     background-color: red;
-    color:white;    
-    font-size:32px;
-    font-weight:bold;
+    color: white;    
+    font-size: 32px;
+    font-weight: bold;
     text-align: center;
 }

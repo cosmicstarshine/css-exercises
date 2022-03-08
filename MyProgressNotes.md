@@ -10,4 +10,5 @@ Foundations:
         ## Nothing too spicy here, just some text formatting. For now, I'd say I'm comfortable with all methods of injecting styling.
 
     Exercise 2:
-        ## NOTES TO BE ADDED HERE
+        ## Also fairly straightforward.
+        ## Selectors don't entirely feel intuitive yet; practice should resolve this.
