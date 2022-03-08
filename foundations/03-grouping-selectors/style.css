@@ -1,0 +1,13 @@
+.FirstClass, .SecondClass {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.FirstClass {
+    background-color: black;
+    color: white;    
+}
+.SecondClass {
+    background-color: yellow;
+    color: black;
+}
